@@ -13,6 +13,6 @@ public class Point {
     public static void main(String[] args) {
         Point.printDistance(0, 0, 2, 0);
         Point.printDistance(1, 5, 4, 4);
-        Point.printDistance(1345, 34, 5, 2345);
+        Point.printDistance(-3, 2, 0, -2);
     }
 }
